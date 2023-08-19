@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently work on golang 
+i'm currently working on golang 
 
 
 # 💻 Tech Stack:
